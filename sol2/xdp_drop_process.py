@@ -39,7 +39,6 @@ int block_port(struct xdp_md *ctx) {
 }
 """
 
-
 b = BPF(text=program)
 
 fn = b.load_func("block_port", BPF.XDP)

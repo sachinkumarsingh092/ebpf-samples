@@ -30,6 +30,7 @@ and then run the `nc` commands as mentioned above.
 
 - https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md#2-bpf_hash
 
+- https://lwn.net/Articles/747640/
 
 ...
 and a lots of googling.
